@@ -2,7 +2,7 @@
 GCC
 
 ## VERSIÓN COMPILADOR
-gcc --version
+gcc --version: 
 Apple clang version 15.0.0 (clang-1500.0.40.1)
 
 ## VERSIÓN C
